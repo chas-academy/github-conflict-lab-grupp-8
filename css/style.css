@@ -1,0 +1,14 @@
+.container {
+    width: 95%;
+    margin: 0 auto;
+}
+
+h1 {
+    text-align: center;
+}
+
+main {
+    background-color: aquamarine;
+    padding: 20px;
+    color: darkslategrey
+}
