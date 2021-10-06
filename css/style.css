@@ -10,5 +10,19 @@ h1 {
 main {
     background-color: green;
     padding: 20px;
+<<<<<<< HEAD
     color: white
+=======
+    color: darkslategrey
+}
+
+.circle {
+    position: absolute;
+    top: 6rem;
+    right: 4.5rem;
+    width: 50px;
+    height: 50px;
+    background: purple;
+    border-radius: 50%;
+>>>>>>> c25c1a67764ce46288141695f190a6fdc93e8be7
 }
